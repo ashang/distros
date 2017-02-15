@@ -1,0 +1,38 @@
+╠ # 1 Sabayon Linux Official Repository
+╠     Repository name: sabayon-weekly
+╠     Revision: 3517
+╠     Repository class: entropy.client.interfaces.db.AvailablePackagesRepository
+╠     GPG: /var/lib/entropy/client/database/amd64/sabayon-weekly/standard/amd64/5/signature.asc
+╠     Notice Board: http://pkg.sabayon.org/standard/sabayon-weekly/database/amd64/5/notice.rss
+╠     Path: /var/lib/entropy/client/database/amd64/sabayon-weekly/standard/amd64/5
+╠     Repository URL: http://pkg.sabayon.org
+╠     Package URLs:
+╠      1. http://redir.sabayon.org/entropy
+╠      2. http://dl.sabayon.org/entropy
+╠      3. http://best.sabayon.org/entropy
+╠      4. http://pkg.sabayon.org
+╠      5. http://mirror1.mirror.garr.it/mirrors/sabayonlinux/entropy
+╠      6. http://bali.idrepo.or.id/sabayon/entropy
+╠      7. http://ftp.sh.cvut.cz/MIRRORS/sabayon/entropy
+╠      8. http://madura.idrepo.or.id/sabayon/entropy
+╠      9. http://sumbawa.idrepo.or.id/sabayon/entropy
+╠      10. http://www2.itti.ifce.edu.br/sabayon/entropy
+╠      11. http://riksun.riken.go.jp/pub/pub/Linux/sabayon/entropy
+╠      12. http://debian.mirror.dkm.cz/sabayon/entropy
+╠      13. http://ftp.yz.yamagata-u.ac.jp/pub/linux/sabayonlinux/entropy
+╠      14. http://mirror.freelydifferent.com/sabayon/entropy
+╠      15. http://ftp.kddilabs.jp/Linux/packages/sabayonlinux/entropy
+╠      16. http://sabayon.c3sl.ufpr.br/entropy
+╠      17. http://mirror.internode.on.net/pub/sabayon/entropy
+╠      18. http://mirror.clarkson.edu/sabayon/entropy
+╠      19. http://mirror.umd.edu/sabayonlinux/entropy
+╠      20. http://cross-lfs.sabayonlinux.org/entropy
+╠      21. http://ftp.cc.uoc.gr/mirrors/linux/SabayonLinux/entropy
+╠      22. ftp://ftp.klid.dk/sabayonlinux/entropy
+╠      23. http://na.mirror.garr.it/mirrors/sabayonlinux/entropy
+╠      24. http://ftp.rnl.ist.utl.pt/pub/sabayon/entropy
+╠      25. http://ftp.fsn.hu/pub/linux/distributions/sabayon/entropy
+╠      26. ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/entropy
+╠      27. http://mirror1.mirror.garr.it/mirrors/sabayonlinux/entropy
+╠      28. http://mirror.yandex.ru/sabayon/entropy
+╠      29. http://ftp.surfnet.nl/pub/os/Linux/distr/sabayonlinux/entropy
