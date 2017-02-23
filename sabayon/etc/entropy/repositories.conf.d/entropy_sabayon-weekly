@@ -1,0 +1,40 @@
+# Repository configuration file automatically generated
+# by Entropy on your behalf.
+
+[sabayon-weekly]
+desc = Sabayon Linux Official Repository
+repo = http://pkg.sabayon.org#bz2
+repo = http://pkg.repo.sabayon.org#bz2
+enabled = true
+
+
+
+pkg = http://best.sabayon.org/entropy
+pkg = http://dl.sabayon.org/entropy
+pkg = http://bali.idrepo.or.id/sabayon/entropy
+pkg = http://redir.sabayon.org/entropy
+pkg = http://ftp.sh.cvut.cz/MIRRORS/sabayon/entropy
+pkg = http://madura.idrepo.or.id/sabayon/entropy
+pkg = http://sumbawa.idrepo.or.id/sabayon/entropy
+pkg = http://www2.itti.ifce.edu.br/sabayon/entropy
+pkg = http://riksun.riken.go.jp/pub/pub/Linux/sabayon/entropy
+pkg = http://debian.mirror.dkm.cz/sabayon/entropy
+pkg = http://ftp.yz.yamagata-u.ac.jp/pub/linux/sabayonlinux/entropy
+pkg = http://mirror.freelydifferent.com/sabayon/entropy
+pkg = http://ftp.kddilabs.jp/Linux/packages/sabayonlinux/entropy
+pkg = http://sabayon.c3sl.ufpr.br/entropy
+pkg = http://mirror.internode.on.net/pub/sabayon/entropy
+pkg = http://mirror.clarkson.edu/sabayon/entropy
+pkg = http://mirror.umd.edu/sabayonlinux/entropy
+pkg = http://cross-lfs.sabayonlinux.org/entropy
+pkg = http://ftp.cc.uoc.gr/mirrors/linux/SabayonLinux/entropy
+pkg = http://pkg.sabayon.org
+pkg = ftp://ftp.klid.dk/sabayonlinux/entropy
+pkg = http://na.mirror.garr.it/mirrors/sabayonlinux/entropy
+pkg = http://ftp.rnl.ist.utl.pt/pub/sabayon/entropy
+pkg = http://ftp.fsn.hu/pub/linux/distributions/sabayon/entropy
+pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/entropy
+pkg = http://mirror1.mirror.garr.it/mirrors/sabayonlinux/entropy
+pkg = http://mirror.yandex.ru/sabayon/entropy
+pkg = http://ftp.surfnet.nl/pub/os/Linux/distr/sabayonlinux/entropy
+

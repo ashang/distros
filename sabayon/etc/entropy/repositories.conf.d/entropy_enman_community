@@ -1,0 +1,83 @@
+[community]
+desc = community Repository
+enabled = true
+
+# Sabayon Packages Continent-based Load Balancer
+repo = http://mirror1.mirror.garr.it/mirrors/sabayonlinux/community/community#bz2
+pkg = http://dl.sabayon.org/community/community
+
+# id-REPO, Indonesian FOSS Repository, 100Mbit/sec
+pkg = http://bali.idrepo.or.id/sabayon/community/community
+pkg = http://madura.idrepo.or.id/sabayon/community/community
+pkg = http://sumbawa.idrepo.or.id/sabayon/community/community
+
+# RIKEN Nishina Center for research support, Japan, 1Gbit/sec
+pkg = http://riksun.riken.go.jp/pub/pub/Linux/sabayon/community/community
+
+# Yamagata University, Japan, 1Gbit/sec
+pkg = http://ftp.yz.yamagata-u.ac.jp/pub/linux/sabayonlinux/community/community
+
+# KDDI R&D Laboratories Inc., Japan, 200Mbit/sec
+pkg = http://ftp.kddilabs.jp/Linux/packages/sabayonlinux/community/community
+
+# Silicon Hill (http://www.sh.cvut.cz), 1Gbit/sec, Czech Republic
+pkg = http://ftp.sh.cvut.cz/MIRRORS/sabayon/community/community
+
+# UPC Česká republika, a.s., 2Gbit/sec, Czech Republic
+pkg = http://debian.mirror.dkm.cz/sabayon/community/community
+
+# KLID, Denmark, 1Gbit/sec
+pkg = ftp://ftp.klid.dk/sabayonlinux/community/community
+
+# Free Software Network, Hungary, 1Gbit/sec
+pkg = http://ftp.fsn.hu/pub/linux/distributions/sabayon/community/community
+# pkg = rsync://ftp.fsn.hu/linux/sabayon/community/community
+# pkg = ftp://ftp.fsn.hu/pub/linux/distributions/sabayon/community/community
+
+# University of Crete, 1Gbit/sec, Greece
+pkg = http://ftp.cc.uoc.gr/mirrors/linux/sabayonlinux/community/community
+
+# Rede das Novas Licenciaturas - Instituto Superior Técnico, 1Gbit/sec, Portugal
+pkg = http://ftp.rnl.ist.utl.pt/pub/sabayon/community/community
+# pkg = ftp://ftp.rnl.ist.utl.pt/pub/sabayon/community/community
+
+# Freelydifferent.com, France
+pkg = http://mirror.freelydifferent.com/sabayon/community/community
+
+# NLUUG, Holland
+pkg = ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/community/community
+# pkg = rsync://ftp.nluug.nl/sabayonlinux/community/community
+
+# Surfnet, Holland
+pkg = http://ftp.surfnet.nl/pub/os/Linux/distr/sabayonlinux/community/community
+# pkg = rsync://ftp.SURFnet.nl/sabayonlinux/community/community
+
+# Internode, Australia
+pkg = http://mirror.internode.on.net/pub/sabayon/community/community
+
+# Instituto Federal de Educação, Ciência e Tecnologia do Cearà, Brazil
+pkg = http://www2.itti.ifce.edu.br/sabayon/community/community
+
+# Yandex Linux Mirror, Russian Federation
+# pkg = ftp://mirror.yandex.ru/sabayon/community/community
+# pkg = rsync://mirror.yandex.ru/sabayon/community/community
+pkg = http://mirror.yandex.ru/sabayon/community/community
+
+# Universidade Federal do Parana', Brazil
+# pkg = ftp://sabayon.c3sl.ufpr.br/sabayon/community/community
+# pkg = rsync://sabayon.c3sl.ufpr.br/sabayon/community/community
+pkg = http://sabayon.c3sl.ufpr.br/community/community
+
+# University of Maryland LUG, 1Gbit/sec, United States
+# pkg = rsync://mirror.umd.edu/sabayonlinux/community/community
+pkg = http://mirror.umd.edu/sabayonlinux/community/community
+
+# Open Source Institute, Clarkson University, 300Mbit/sec, United States
+pkg = http://mirror.clarkson.edu/sabayon/community/community
+
+# Cross-LFS Project mirror, United States
+pkg = http://cross-lfs.sabayonlinux.org/community/community
+
+# GARR Network mirror, Italy
+pkg = http://na.mirror.garr.it/mirrors/sabayonlinux/community/community
+
