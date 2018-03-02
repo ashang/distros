@@ -3,6 +3,5 @@
 - Debian
 - Gentoo
 - LFS
-- Manjaro
 - Sabayon
 - Ubuntu
