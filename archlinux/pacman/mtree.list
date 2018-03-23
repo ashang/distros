@@ -1,0 +1,369 @@
+#mtree
+/set type=file uid=0 gid=0 mode=644
+./.BUILDINFO time=1500112834.193487231 size=13696 md5digest=c8005e440659fc64f151057102ad9104 sha256digest=ea3dfa82b18a0390ac6ca0c3eb6d9f379cf0eb383971c3ecc93ee697ed85720c
+./.INSTALL time=1500112834.196820669 size=4884 md5digest=0a4a429b466a535f55abf92f05ce98d1 sha256digest=d7a2c571208671a30ec3bf71b3444d0c57dd81ce839699c0155d744fac339021
+./.PKGINFO time=1500112834.173486608 size=880 md5digest=48d25b8612f9d2de1744434ae9eabd3e sha256digest=25d120224b5e1e86e08ed760383103a07cbd5264b8a92f3457860bc8c803ba16
+./etc time=1500112808.112670645 mode=755 type=dir
+./etc/makepkg.conf time=1500112808.109337207 size=5919 md5digest=8c40814027ea9e28534c53127e7950fa sha256digest=cfba33f4675cf48aa3ee6f0535ed46da2d28b72677c30aab29474c58dfd795a9
+./etc/pacman.conf time=1500112808.106003769 size=2672 md5digest=1279d83ceed21c1de4fc4a00ba710ed3 sha256digest=01aa62ecd3e3d37bf800cd3ab0bf55121d3dd1d51a5070175c67216167a846de
+/set mode=755
+./usr time=1500112806.825963517 type=dir
+./usr/bin time=1500112811.859455033 type=dir
+./usr/bin/bacman time=1500112808.99336893 size=9138 md5digest=29f30ab7b1bfc7480cf93a84fcfe69b4 sha256digest=66731eb7ec05fd5082b92bd30dd3933fb2b201cd698abebd3f97bd8caed8de77
+./usr/bin/checkupdates time=1500112808.99336893 size=3040 md5digest=4291c2caded418fe3770ff67e7c4bf30 sha256digest=14360951480d461a7dcfcb1be55c29b3b4d98d6b93b59f376eb954a387bbb228
+./usr/bin/cleanupdelta time=1500112810.292739159 size=10544 md5digest=c37244f7ed0d92fdbdf9fbb598c1b59f sha256digest=cc1734cc6ab0b3f38bb1b3895ac6ec1398543cf06ab504583ababd0a99752bfd
+./usr/bin/makepkg time=1500112807.809327774 size=64271 md5digest=178d470914a831b39973c21be547d160 sha256digest=086fe09a75100bf03e1a7c8f49b70bfedcfef1843c9fe800a6899cd3985608fb
+./usr/bin/makepkg-template time=1500112807.799327459 size=6530 md5digest=11fd0b024cbad6cc054bddd65cbb2a1a sha256digest=1dc8a4ba75cc2ad8bb42de379ba49523e4bcaa21c37d569583175704d207bdeb
+./usr/bin/paccache time=1500112808.99336893 size=14176 md5digest=7ef93c55cb5510f83a22f36c7bdba1cf sha256digest=502ce22cc9ce23607ad37d94e95f2173cce42a901b32c26ae89c75efe2a92353
+./usr/bin/pacdiff time=1500112808.99336893 size=6305 md5digest=3d62e08889aa2a1300e130323a38de02 sha256digest=fd7fc53d14ef0685d7842561ef56cdfe74e1de1ff45493e02d88a8ab02fd1125
+./usr/bin/paclist time=1500112808.102670331 size=1849 md5digest=5e7fc27c634d6f36c0139f0e80cd6d88 sha256digest=25ce2eb75d9d010cb7cecd12ca42db9251999e0f5aef9800ee375408d57a5784
+./usr/bin/paclog-pkglist time=1500112808.102670331 size=2278 md5digest=bf04d795c753570481baffc14dd582cb sha256digest=cc4b22dca6e4faad4b4a4de83f10b7bd7b3ffd6e4c97ebba6a3999c8bddd0b80
+./usr/bin/pacman time=1500112810.626082964 size=139552 md5digest=c58ba3a4ab93120b8b1595febe73d6cc sha256digest=ec3274d144fb14d1a773c5582eba801bb21bbf36cfc77835fa74bdae7de9d434
+./usr/bin/pacman-db-upgrade time=1500112807.795994022 size=11430 md5digest=fff3b3635d8c85440196e0044f0f5095 sha256digest=f7b15a74a37b9409d7b183cebe9378bd9871842801da027899e11adb52e25a60
+./usr/bin/pacman-key time=1500112807.795994022 size=23286 md5digest=59eb6612f9373e0ddfe53a7f94f6c002 sha256digest=a25f7565796eacf5185cb71fa4d7668ead1c7eca1cfa3bebe9ac7035ccf7b394
+./usr/bin/pacman-optimize time=1500112807.795994022 size=6977 md5digest=241c5685431ed2573146ad43ec6acef3 sha256digest=1855e09e71972935f633c8cdd7b410e7da22566842270885bce14f987d30096f
+./usr/bin/pacscripts time=1500112808.102670331 size=3350 md5digest=a559fa9fdd296892466458b4bf0e78c4 sha256digest=cdc515a6c846c7f86dd1d4e36910d12f20bdd621f99afcfebc5c0cbb2fd4bba6
+./usr/bin/pacsearch time=1500112808.102670331 size=3540 md5digest=affb4b16545e318632cf54ff664f3346 sha256digest=483530a2a39ee7fa9b44b945e6c863900a7accc5ba00d252bf303861cc27bac2
+./usr/bin/pacsort time=1500112809.636051859 size=14832 md5digest=af64afaca10cf8db8b2d5c704fc2f7e9 sha256digest=3042b48d3dd365776b5691a46145cbc3def820fe551f9ceafdd92601a10d92ff
+./usr/bin/pactree time=1500112810.82732561 size=19376 md5digest=c1d1e425b8d941ae8d8182491573d0bf sha256digest=6efa10374d00ab7444869952efd3314c815b9ed2b51c6e376e69e180cd96eeb8
+./usr/bin/pkgdelta time=1500112807.795994022 size=11158 md5digest=f848260e4b8ecabb5750e5e633b7ddbb sha256digest=326b7d133fa9cd4e85aa7ef1430ad452615c7c2acb4edfa72eda24dcd739335f
+./usr/bin/rankmirrors time=1500112808.119337522 mode=777 type=link link=/usr/bin/pacman-mirrors
+./usr/bin/repo-add time=1500112807.799327459 size=23305 md5digest=29110a19c90c9bdd5120a6243f13fdfa sha256digest=f8407dfd85e6d37e3bee1739b235fd89e0b72b55d6ac0d8cee953efe64542d52
+./usr/bin/repo-elephant time=1500112807.889330290 mode=777 type=link link=repo-add
+./usr/bin/repo-remove time=1500112807.892663728 mode=777 type=link link=repo-add
+./usr/bin/testpkg time=1500112811.312771198 size=10512 md5digest=a478ec55d36a9d90ab383ffbc5c51a8f sha256digest=3b13f6a2d784d39c0062606234a037a0b1cc649b5a58d5f4abb1d4dd553e99e3
+./usr/bin/updpkgsums time=1500112808.102670331 size=3183 md5digest=8ee1f70cd0d5670289fdf2f04bfb5900 sha256digest=b9c22fcfbf5ae5a4fb33ac1d46472993562b804828584c64b82fecfde1b2e0a1
+./usr/bin/vercmp time=1500112811.859455033 size=10472 md5digest=79e7d3c41dce4742d4a31eca4d67af04 sha256digest=cf37efb2c1a6692ee9f6e521b19435c40922dfc3052cc15f8a21e7bcc6e93a73
+/set mode=644
+./usr/include time=1500112806.695959428 mode=755 type=dir
+./usr/include/alpm.h time=1500112806.695959428 size=53413 md5digest=8eb0422be1fd0df9d3ea30ffc842f32b sha256digest=5e7e1084b98764d4ece2661f418c5b656ea4f8e0be13356a1918a3426d647944
+./usr/include/alpm_list.h time=1500112806.695959428 size=3879 md5digest=fb396a92f7b316f309fdae5d9a0d597a sha256digest=6503845fb71a324eaa8ef4e38eb50fb86692987c8aed715c150faa95d59997af
+/set mode=755
+./usr/lib time=1500112809.39366442 type=dir
+./usr/lib/libalpm.so time=1500112806.745961001 mode=777 type=link link=libalpm.so.10.0.2
+./usr/lib/libalpm.so.10 time=1500112806.742627562 mode=777 type=link link=libalpm.so.10.0.2
+./usr/lib/libalpm.so.10.0.2 time=1500112809.39366442 size=221472 md5digest=b41d3a5c0d8fff1c9567a29ce2af754b sha256digest=03bb3f06e500354de64878d0525522291c98835bd0b4c572fda562db42436db4
+./usr/lib/pkgconfig time=1500112806.695959428 type=dir
+./usr/lib/pkgconfig/libalpm.pc time=1500112806.695959428 mode=644 size=333 md5digest=b6b87cfe64d668babe0301234b0e54dd sha256digest=46da77d933a45032a9e7a58be445a93eb9c58e9b8ffc63d8c03968a16bfdd9f6
+./usr/lib/systemd time=1500112808.122670960 type=dir
+/set mode=644
+./usr/lib/systemd/system time=1500112808.122670960 mode=755 type=dir
+./usr/lib/systemd/system/etc-pacman.d-gnupg.mount time=1500112808.122670960 size=134 md5digest=6d5f0f152dfd8e362d478201f02fb711 sha256digest=b6d14727ec465bb66d0a0358163b1bbfafcb4eaed55a0f57c30aabafae7eed68
+./usr/lib/systemd/system/pacman-init.service time=1500112808.122670960 size=333 md5digest=9d30d72df25ae43015571f0a27dd9b58 sha256digest=ca4aa967ccfb9affab23fd61ad6d16f330b2810e5f9de93deec49ea7872369ae
+/set mode=755
+./usr/share time=1500112808.116004083 type=dir
+./usr/share/bash-completion time=1500112808.112670645 type=dir
+/set mode=777
+./usr/share/bash-completion/completions time=1500112808.116004083 mode=755 type=dir
+./usr/share/bash-completion/completions/makepkg time=1500112808.116004083 type=link link=pacman
+./usr/share/bash-completion/completions/pacman time=1500112807.792660584 mode=644 size=4787 md5digest=a9d8bd8cbf08bcdd680d8d8c6c652f42 sha256digest=b41ebf22de123ded21957ddaa3ba28f930306eaaad4a3958cfdb3a557dba2b7d
+./usr/share/bash-completion/completions/pacman-key time=1500112808.116004083 type=link link=pacman
+./usr/share/libalpm time=1500112808.82669702 mode=755 type=dir
+./usr/share/libalpm/hooks time=1500112808.82669702 mode=755 type=dir
+/set mode=755
+./usr/share/locale time=1500112807.319312366 type=dir
+./usr/share/locale/ar time=1500112806.199277139 type=dir
+/set mode=644
+./usr/share/locale/ar/LC_MESSAGES time=1500112807.465983645 mode=755 type=dir
+./usr/share/locale/ar/LC_MESSAGES/libalpm.mo time=1500112806.202610577 size=17732 md5digest=a3cbff9254f070f5cbddafa6614e721b sha256digest=f1a458b209f7e4ddc1f857003f7fbe0827d6fa3c38d39f0ebe1b73e8f1e484cf
+./usr/share/locale/ar/LC_MESSAGES/pacman-scripts.mo time=1500112807.465983645 size=23531 md5digest=9d106871df3d776da704cc02c0794805 sha256digest=0c3c53305af1804fb37b55a4600221dd159b518bc78cdb7da6374fcb86deb44d
+./usr/share/locale/ar/LC_MESSAGES/pacman.mo time=1500112806.995968865 size=32184 md5digest=3cb09d0d5a30af5a3a66a4309f78a490 sha256digest=f145294d3a6234fb5cc6edc97880b1ed55767c8f9968503094be43f76927ba1d
+./usr/share/locale/az_AZ time=1500112807.5969180 mode=755 type=dir
+./usr/share/locale/az_AZ/LC_MESSAGES time=1500112807.472650521 mode=755 type=dir
+./usr/share/locale/az_AZ/LC_MESSAGES/pacman-scripts.mo time=1500112807.472650521 size=1001 md5digest=99e6c3f47406f6c726c0e0dd527db8f8 sha256digest=3eeabe3debdc6db4874c0f36b694f83d9ca19e55d9a67f4c04682748874ad25c
+./usr/share/locale/az_AZ/LC_MESSAGES/pacman.mo time=1500112807.5969180 size=5015 md5digest=aeeb54e94f51310b3f229733c833a1a3 sha256digest=6bc18dcdac62a11c88cda849deeca76e29228bac57c4f8f1c9afd03f7d47c2cb
+./usr/share/locale/br time=1500112806.209277453 mode=755 type=dir
+./usr/share/locale/br/LC_MESSAGES time=1500112807.479317397 mode=755 type=dir
+./usr/share/locale/br/LC_MESSAGES/libalpm.mo time=1500112806.212610891 size=16480 md5digest=1ec7473df462ee6c971e902c2c2fb3a6 sha256digest=a3d734c09e240730e95d789174a54d6e21c22fc6a29f4bd5d6aa570513d87b8c
+./usr/share/locale/br/LC_MESSAGES/pacman-scripts.mo time=1500112807.479317397 size=50679 md5digest=344ed76f8675e7c462cfaf5706706bc2 sha256digest=abd147892099d998b71a3b7f1a275fe2766cc8f0ae5832147f27ad9b4390f46e
+./usr/share/locale/br/LC_MESSAGES/pacman.mo time=1500112807.12636056 size=31998 md5digest=676203a79e1f0c024e5794afbd94f081 sha256digest=7b9b6fe379e7b0e978d99b7ab0b63f5180fc46ff060f867f8c9b7877c20d3a66
+./usr/share/locale/ca time=1500112806.219277768 mode=755 type=dir
+./usr/share/locale/ca/LC_MESSAGES time=1500112807.485984273 mode=755 type=dir
+./usr/share/locale/ca/LC_MESSAGES/libalpm.mo time=1500112806.219277768 size=16827 md5digest=63894898efc2d433504be8517177764f sha256digest=11c601dc93e02605f9bd40290f11de1d9157d20fb5f9d2e6988da665ede7b227
+./usr/share/locale/ca/LC_MESSAGES/pacman-scripts.mo time=1500112807.485984273 size=51891 md5digest=82bd4fc7619de416d0710656ad5bca1c sha256digest=6b64cf3afb7ca5f108ad6242cf43b7749f0881fbe59755127080b56f6be5e1f0
+./usr/share/locale/ca/LC_MESSAGES/pacman.mo time=1500112807.19302933 size=33257 md5digest=2111681b25cd505f359efef75aa57d08 sha256digest=6544afb7c9a649a6ad8f821812326a4366b48e3c21943ca657efc0a583a45cda
+./usr/share/locale/cs time=1500112806.229278082 mode=755 type=dir
+./usr/share/locale/cs/LC_MESSAGES time=1500112807.492651150 mode=755 type=dir
+./usr/share/locale/cs/LC_MESSAGES/libalpm.mo time=1500112806.229278082 size=16156 md5digest=af02ecea394f9074292f7862281190e1 sha256digest=36e565174095519255ef0aac9339edf7078269255287521f159d46a66bd844fc
+./usr/share/locale/cs/LC_MESSAGES/pacman-scripts.mo time=1500112807.492651150 size=50375 md5digest=301963542360dca81fe2ed2d63570360 sha256digest=36294c28477d5ad6c90230a2d4a02800e93f0ac6f40c65de45d2ca37aa95d1e9
+./usr/share/locale/cs/LC_MESSAGES/pacman.mo time=1500112807.29303247 size=32732 md5digest=519cb05f649fad9644643b5d3340b11d sha256digest=b4bd51f206f949ea8378b59d80ef780204a079a996ba22921e4443b607cdedaf
+./usr/share/locale/da time=1500112806.239278397 mode=755 type=dir
+./usr/share/locale/da/LC_MESSAGES time=1500112807.499318026 mode=755 type=dir
+./usr/share/locale/da/LC_MESSAGES/libalpm.mo time=1500112806.242611835 size=15552 md5digest=afa9672b07f907b41fed87b147c74b6a sha256digest=4362a4738dd18bfb797fcb51af7de96a19fb83b0eacc7de5e4f021df0d58ef80
+./usr/share/locale/da/LC_MESSAGES/pacman-scripts.mo time=1500112807.499318026 size=48916 md5digest=af45cbeb57e8bcbf70a07d90cb82cdad sha256digest=ab50d10096baa5023f022562d411d403412f0384fbaa1443ef35c267734cc1cd
+./usr/share/locale/da/LC_MESSAGES/pacman.mo time=1500112807.35970123 size=31603 md5digest=47c6aa9d700c987d6ae20cf88fd79d6e sha256digest=3b470463047e9224a89d53a96813fa1223d750ef2e3a88647beee5a82ee4d6f9
+./usr/share/locale/de time=1500112806.249278711 mode=755 type=dir
+./usr/share/locale/de/LC_MESSAGES time=1500112807.505984903 mode=755 type=dir
+./usr/share/locale/de/LC_MESSAGES/libalpm.mo time=1500112806.252612150 size=16690 md5digest=a02195112ef8c210b7815728eb9b13c8 sha256digest=06e38955cd7291e0cc8b21244129b9b3363fd0a293c62e620fcf6bd4b9cc7428
+./usr/share/locale/de/LC_MESSAGES/pacman-scripts.mo time=1500112807.505984903 size=52393 md5digest=08c7e5909506071f91e3d10feca0dad0 sha256digest=ded85ee9b3216aacb0a978710a6ec3ee1ab0f22171dd56aaa63e6492aede9b89
+./usr/share/locale/de/LC_MESSAGES/pacman.mo time=1500112807.42636999 size=33219 md5digest=482df0104e9e0351618a2a629900d69f sha256digest=3d34e9d51b5a6ba44681cb91803b3ca695b98b9152ee22887b245616b06453c9
+./usr/share/locale/el time=1500112806.262612464 mode=755 type=dir
+./usr/share/locale/el/LC_MESSAGES time=1500112807.515985217 mode=755 type=dir
+./usr/share/locale/el/LC_MESSAGES/libalpm.mo time=1500112806.262612464 size=20276 md5digest=082a5d59c257acecc58bc072d7046666 sha256digest=fa7b0179debd19605a69fc0459850f7797edd8d981edbee116be825f9426e1f4
+./usr/share/locale/el/LC_MESSAGES/pacman-scripts.mo time=1500112807.515985217 size=64188 md5digest=2ca346d2d879972d04af93517db10249 sha256digest=8be25e98ba99f7b656aec99716a397a90e99b81c81193058f2e9003362d0a2fe
+./usr/share/locale/el/LC_MESSAGES/pacman.mo time=1500112807.49303875 size=39859 md5digest=0c4b66208e6a47675be6b62a670de76a sha256digest=878738a9bf240d782098261caa536b95e295b5560ee31b27a25131b485f114cd
+./usr/share/locale/en_GB time=1500112806.272612779 mode=755 type=dir
+./usr/share/locale/en_GB/LC_MESSAGES time=1500112807.522652094 mode=755 type=dir
+./usr/share/locale/en_GB/LC_MESSAGES/libalpm.mo time=1500112806.272612779 size=15323 md5digest=18ee5f32895b3469e8801879a352a6c9 sha256digest=713d101ee3c1122601a6841aff6897700039062a89b187238c1fd1a0c322772e
+./usr/share/locale/en_GB/LC_MESSAGES/pacman-scripts.mo time=1500112807.522652094 size=48358 md5digest=235fb1eef551da745120ad3a2803be16 sha256digest=920fbac8c517a16353849f367972b4934b268a2a201f7cbb79e0587bc6a664fb
+./usr/share/locale/en_GB/LC_MESSAGES/pacman.mo time=1500112807.55970752 size=30884 md5digest=495fd1d95641745c20038205a7c5712d sha256digest=4b52049623a10e65a7300f06969b623b4edf865359cbbfe0d5444636cf448c0f
+./usr/share/locale/eo time=1500112806.282613093 mode=755 type=dir
+./usr/share/locale/eo/LC_MESSAGES time=1500112807.529318970 mode=755 type=dir
+./usr/share/locale/eo/LC_MESSAGES/libalpm.mo time=1500112806.282613093 size=15707 md5digest=0753da8cf0e67ea676ff1af6f9751e44 sha256digest=8884b5243ccc90246f64209a6095cbbaf15a85f667740eeeff13fcf1759dbd41
+./usr/share/locale/eo/LC_MESSAGES/pacman-scripts.mo time=1500112807.529318970 size=49952 md5digest=af6f017ddd74b668b6e0992194637828 sha256digest=2f7d34d18af5bfce89c3188d2b76b605c3ddce720ccfe58ae7fdd2c359dc12ee
+./usr/share/locale/eo/LC_MESSAGES/pacman.mo time=1500112807.65971066 size=31704 md5digest=7303e28567657d0987195018b81ce00a sha256digest=862d89ac34b5457a114e01dbe857a27ac05e1aa81263298f3219283b7908e831
+./usr/share/locale/es time=1500112806.289279969 mode=755 type=dir
+./usr/share/locale/es/LC_MESSAGES time=1500112807.539319284 mode=755 type=dir
+./usr/share/locale/es/LC_MESSAGES/libalpm.mo time=1500112806.292613408 size=17130 md5digest=37cf99dec60d7696e8c5478bf5ad55f4 sha256digest=4cddf0d86932e3783ecaf0a614b85088836ac893df9a846649e3733a24f28493
+./usr/share/locale/es/LC_MESSAGES/pacman-scripts.mo time=1500112807.539319284 size=53125 md5digest=064ffa9ce02560b4a8daa5114502e1f3 sha256digest=10d890c75216082f31c6d09d98fc13d9a3d2283727e177ac534ce038ebc920e0
+./usr/share/locale/es/LC_MESSAGES/pacman.mo time=1500112807.72637943 size=34390 md5digest=793821cb632e30a6154f5c4893a3ed9e sha256digest=697ad014d00ac1e6d222e1a7b1443910710c2032b088e23fd954cddc03bb85eb
+./usr/share/locale/es_419 time=1500112806.299280284 mode=755 type=dir
+./usr/share/locale/es_419/LC_MESSAGES time=1500112807.545986160 mode=755 type=dir
+./usr/share/locale/es_419/LC_MESSAGES/libalpm.mo time=1500112806.302613722 size=17167 md5digest=1916304b63e50fbf8afdecd6d57e6de4 sha256digest=d7cb44f16dc2f8aa3f395a9802ed294d41aaaaa33410c5137de116b679bd761b
+./usr/share/locale/es_419/LC_MESSAGES/pacman-scripts.mo time=1500112807.545986160 size=52927 md5digest=4993dfeefaef20cd342133897c45b9ce sha256digest=692b16cf0079587d174d8303c9aa877979ffe57147e271bf47f2b8267db8551d
+./usr/share/locale/es_419/LC_MESSAGES/pacman.mo time=1500112807.79304819 size=34441 md5digest=73d4983df57e88003325f9a07d578253 sha256digest=1381cf3e3bfadd9f08868ddcfdda6f0b93214123cbef71639369d34cb5a35833
+./usr/share/locale/fa time=1500112807.89305134 mode=755 type=dir
+./usr/share/locale/fa/LC_MESSAGES time=1500112807.89305134 mode=755 type=dir
+./usr/share/locale/fa/LC_MESSAGES/pacman.mo time=1500112807.89305134 size=4448 md5digest=85d7230043514f5c5328013044203f5e sha256digest=03f6cd7c31eebfb31d896c7b5bb466325be59f657579becd17cea5684bb09009
+./usr/share/locale/fi time=1500112806.309280599 mode=755 type=dir
+./usr/share/locale/fi/LC_MESSAGES time=1500112807.555986474 mode=755 type=dir
+./usr/share/locale/fi/LC_MESSAGES/libalpm.mo time=1500112806.312614037 size=16188 md5digest=fa65238b94a53b5bb9cab7bdf61fd73b sha256digest=41fbdc5a548aa4dd3ae0a6b03b44ff0583acd75c54c44f1979d29613ca2491cb
+./usr/share/locale/fi/LC_MESSAGES/pacman-scripts.mo time=1500112807.555986474 size=42686 md5digest=98f435de314b1d7d812a6335fe151002 sha256digest=ca7c466707bd0b9585855b996fedb79835ab7c56d94cbc10bd0aacd8703e7aad
+./usr/share/locale/fi/LC_MESSAGES/pacman.mo time=1500112807.95972010 size=32077 md5digest=f2d762fdc2bbb6119dac17b5b5df866c sha256digest=363c83853fab9aa4712c10ecafdb0c4ed609fb865e3e4a03a79109322bf7a299
+./usr/share/locale/fr time=1500112806.322614351 mode=755 type=dir
+./usr/share/locale/fr/LC_MESSAGES time=1500112807.562653351 mode=755 type=dir
+./usr/share/locale/fr/LC_MESSAGES/libalpm.mo time=1500112806.322614351 size=17309 md5digest=55dcdce1c3ac0ea169d75aeffd5c6f6d sha256digest=ed3bb6156fa2089641146b2babb8bb273e131aa25944ef9271f56719fd8a08aa
+./usr/share/locale/fr/LC_MESSAGES/pacman-scripts.mo time=1500112807.562653351 size=53598 md5digest=46d8652f8f17b96049b9d6a3ae8128dd sha256digest=d1774fe85e0e681ab995cb560ff35fa776ba3d66afdcc7dd31831570f8cffcc6
+./usr/share/locale/fr/LC_MESSAGES/pacman.mo time=1500112807.102638886 size=34427 md5digest=b403edb9f66defb8ff8a15609e9d7ca4 sha256digest=7b0ed9c5300ccbbf425ea5c2eaab3f9c75c4cd6d0c377163fe1a06faab20465e
+./usr/share/locale/gl time=1500112806.332614666 mode=755 type=dir
+./usr/share/locale/gl/LC_MESSAGES time=1500112807.569320227 mode=755 type=dir
+./usr/share/locale/gl/LC_MESSAGES/libalpm.mo time=1500112806.332614666 size=16968 md5digest=ee08e9f4020dbb7ab1f267061d38ee60 sha256digest=913b3274182c6d600bd39512d04a67f522bb56a07d7695112bb60ef080eb8632
+./usr/share/locale/gl/LC_MESSAGES/pacman-scripts.mo time=1500112807.569320227 size=54494 md5digest=7bbf39c4ee8c612f86d9bfdbd347d7cc sha256digest=d61592f23a10623934ded06781357288943afdfb54f9f42f5c480a958b8514a7
+./usr/share/locale/gl/LC_MESSAGES/pacman.mo time=1500112807.112639201 size=34975 md5digest=cef495e7aebf7f40561fa4c594c81dbb sha256digest=0425a857facfaa52fa4d44d5619cd36ba42f81d886cb523887ec6e2e0d25d834
+./usr/share/locale/hr time=1500112806.342614980 mode=755 type=dir
+./usr/share/locale/hr/LC_MESSAGES time=1500112807.575987104 mode=755 type=dir
+./usr/share/locale/hr/LC_MESSAGES/libalpm.mo time=1500112806.342614980 size=16053 md5digest=84a905600bb2436d9653bf5f8308e587 sha256digest=eee110443f3ae6c0bdb90af2c77f6d5c8c236bd8028215a429616a183e22584d
+./usr/share/locale/hr/LC_MESSAGES/pacman-scripts.mo time=1500112807.575987104 size=22860 md5digest=3b6f905e9736e9bf0cf92682bea00e7b sha256digest=5e68a2129e27befaa12f37737c676dae52f26af8a62ea6119c0bbf8820452e35
+./usr/share/locale/hr/LC_MESSAGES/pacman.mo time=1500112807.119306076 size=31141 md5digest=e1740999956946a0814f82180d2a1dd7 sha256digest=68f05ab5887ef75ba6c0ebfb97dea665dc384cbbe4bb309f1c2e4ec1d5cbc69d
+./usr/share/locale/hu time=1500112806.349281857 mode=755 type=dir
+./usr/share/locale/hu/LC_MESSAGES time=1500112807.582653980 mode=755 type=dir
+./usr/share/locale/hu/LC_MESSAGES/libalpm.mo time=1500112806.352615295 size=17067 md5digest=52391bf67c66ff358c02408d22eb30a7 sha256digest=74b95939c5838ec6b49e40dc95be241a9a3681616f1f655382d9bba490fa8c2e
+./usr/share/locale/hu/LC_MESSAGES/pacman-scripts.mo time=1500112807.582653980 size=52628 md5digest=9750192c9627ff48f9d19feb48b331d8 sha256digest=3e3e859ea1a6eebeeb56512db1ed6d36e57f061afb68ebce335e557c112126f4
+./usr/share/locale/hu/LC_MESSAGES/pacman.mo time=1500112807.129306391 size=34254 md5digest=2ae89351812974cfcd19d4e281329daf sha256digest=90beb8701d76b7d9c6729b1b4b235c7864d874970b104104f3aba70585a69098
+./usr/share/locale/id time=1500112806.362615610 mode=755 type=dir
+./usr/share/locale/id/LC_MESSAGES time=1500112807.592654295 mode=755 type=dir
+./usr/share/locale/id/LC_MESSAGES/libalpm.mo time=1500112806.365949048 size=15799 md5digest=0728f2f52261f1db31db7e0194381572 sha256digest=4533252408c93add50d673373fec7a16209b6a23c3156dfd9874b6db5f1e736e
+./usr/share/locale/id/LC_MESSAGES/pacman-scripts.mo time=1500112807.592654295 size=48856 md5digest=681b07f44f23e5fac51dc1b9f48590ea sha256digest=4a05a7f9dd872aa2e84cb08bd2fc3d929f30df15201ee4162899de3338cf78e2
+./usr/share/locale/id/LC_MESSAGES/pacman.mo time=1500112807.135973267 size=30747 md5digest=3b89892e5a87054142feafbcf4e245b7 sha256digest=f8a7dca816cb88bda995b00a670c763bc0c32808a86f0909cd7f995f43ccaa55
+./usr/share/locale/is time=1500112806.372615924 mode=755 type=dir
+./usr/share/locale/is/LC_MESSAGES time=1500112807.599321171 mode=755 type=dir
+./usr/share/locale/is/LC_MESSAGES/libalpm.mo time=1500112806.379282801 size=773 md5digest=fc2df89316cf4365dab3599d3229487a sha256digest=e43216584b01fa7fe8d0715cc43b528b10d3b0dc7bad3851d148ae2167d4bb81
+./usr/share/locale/is/LC_MESSAGES/pacman-scripts.mo time=1500112807.599321171 size=2066 md5digest=d82da88aa0d8fa424a54f4fb0d2796b5 sha256digest=7a56862088fcf4af1410c46410b31af287982d7b9eeb9fcbc154e3b76a14c79d
+./usr/share/locale/is/LC_MESSAGES/pacman.mo time=1500112807.145973582 size=2479 md5digest=62cbd3ee285bb5b9c9e99d02379e4e79 sha256digest=54678ca8ca3bb86b48e0e48485c6f6e51b4a0c96441d62a6f21f6ab90527099f
+./usr/share/locale/it time=1500112806.385949677 mode=755 type=dir
+./usr/share/locale/it/LC_MESSAGES time=1500112807.605988047 mode=755 type=dir
+./usr/share/locale/it/LC_MESSAGES/libalpm.mo time=1500112806.389283115 size=17175 md5digest=fbf5a453cb1324620add4f97e3deabe4 sha256digest=feb736d55e5d07f0279935532d522fa7f0cb6a96d0f06d1a780ae34a7a68ba6f
+./usr/share/locale/it/LC_MESSAGES/pacman-scripts.mo time=1500112807.605988047 size=51711 md5digest=2b1484450c2cdee61d05bac3924280d4 sha256digest=3cab11f3654bd79961d954ab6e317eae72ef62af1911dda7665f7ffc73c6b9c7
+./usr/share/locale/it/LC_MESSAGES/pacman.mo time=1500112807.152640458 size=33684 md5digest=3f510c7534da7224b98d210c99582c57 sha256digest=3805809680e86c6508b378b2fa50cfcbf6573fa0ce38296afdfdd1db8b972bac
+./usr/share/locale/ja time=1500112806.395949991 mode=755 type=dir
+./usr/share/locale/ja/LC_MESSAGES time=1500112807.612654924 mode=755 type=dir
+./usr/share/locale/ja/LC_MESSAGES/libalpm.mo time=1500112806.395949991 size=18856 md5digest=1314e624614f6493791a854180814896 sha256digest=61870a932a8f5c71a7ea85f5c1a4691670957c312bb0bd6f92941df2de30bed3
+./usr/share/locale/ja/LC_MESSAGES/pacman-scripts.mo time=1500112807.612654924 size=56264 md5digest=0cb9bf23fbd199b94481b44810d570d9 sha256digest=b6eb10361839b3998ddd269510e7a749fddf08b6baae6acd1a2599c686a26e68
+./usr/share/locale/ja/LC_MESSAGES/pacman.mo time=1500112807.159307335 size=35755 md5digest=5712f292c4135c3cdfbeb1cc722d4b7d sha256digest=6bf3f6eddb593f2a330f303c88cc6b1523e53e163dd7917ce6ad90d9c328a761
+./usr/share/locale/ka time=1500112806.405950306 mode=755 type=dir
+./usr/share/locale/ka/LC_MESSAGES time=1500112807.619321800 mode=755 type=dir
+./usr/share/locale/ka/LC_MESSAGES/libalpm.mo time=1500112806.405950306 size=1498 md5digest=2c973cbbda70aa10862fec1a6253b143 sha256digest=2959cf24069ff7b1b5bcc2eef38a0b341c36ec8a485c0c03844b5bc97d36d0c2
+./usr/share/locale/ka/LC_MESSAGES/pacman-scripts.mo time=1500112807.619321800 size=1661 md5digest=7738386753474d5029a7836870e6e580 sha256digest=dc8dd211e8c7dca70e1b138fcd1d3655f0f20f8690a73c41cf7f745ebb3cca49
+./usr/share/locale/ka/LC_MESSAGES/pacman.mo time=1500112807.165974211 size=21964 md5digest=9a728267012437c335a7aca547ac2504 sha256digest=4cbf2d5a3a95f9496e3c6fc4e5e24c0f56f0cc54f8ce4b39f29afa9d03a1caaa
+./usr/share/locale/kk time=1500112806.415950621 mode=755 type=dir
+./usr/share/locale/kk/LC_MESSAGES time=1500112807.629322114 mode=755 type=dir
+./usr/share/locale/kk/LC_MESSAGES/libalpm.mo time=1500112806.415950621 size=19770 md5digest=5449dbcce398ba2db1f8756e3c86e9c8 sha256digest=0e1eb8e0dfdae1c2ab7297af43fb0ea004e3080ee1769eed9e735c847ab252cd
+./usr/share/locale/kk/LC_MESSAGES/pacman-scripts.mo time=1500112807.629322114 size=18355 md5digest=7e768eeba7de525c8c8acc8f16a8b68e sha256digest=252c627c71f884a7e324e3bcd0f629f83a2a8a958dfca3307a0f6a4b0134f85f
+./usr/share/locale/kk/LC_MESSAGES/pacman.mo time=1500112807.172641087 size=35052 md5digest=fa4c9805fe2e7d595bd6e1b89576ae9c sha256digest=8f5110d4e35983adb96635553e82c3d23b4f881d73109ea8dbef5c359419c33c
+./usr/share/locale/ko time=1500112806.425950935 mode=755 type=dir
+./usr/share/locale/ko/LC_MESSAGES time=1500112807.635988990 mode=755 type=dir
+./usr/share/locale/ko/LC_MESSAGES/libalpm.mo time=1500112806.425950935 size=18081 md5digest=c781cbe745fb7f7879182d9b07e0b7a8 sha256digest=dafc15df24d6dccb4283568f2f09abfb6e35390d50de7f0641cfaa317535ea04
+./usr/share/locale/ko/LC_MESSAGES/pacman-scripts.mo time=1500112807.635988990 size=54604 md5digest=c3ee82372815a3ae60513ccd7a186ec9 sha256digest=db4f61b5eb0654bc30ac884380be53f5f19888041890ba5bdd37ec51c5f7d297
+./usr/share/locale/ko/LC_MESSAGES/pacman.mo time=1500112807.182641402 size=34421 md5digest=a8ed81eea7c2cf69ba4f0ff957fa48c2 sha256digest=34c3272e4ede3e399081c64c1c3ff6c44569c920eddb2b659b706d7d4a761ea9
+./usr/share/locale/lt time=1500112806.432617812 mode=755 type=dir
+./usr/share/locale/lt/LC_MESSAGES time=1500112807.642655866 mode=755 type=dir
+./usr/share/locale/lt/LC_MESSAGES/libalpm.mo time=1500112806.435951249 size=15969 md5digest=6fc2c485a633855cf129997951e526ce sha256digest=1634f6ba77a89949f6d8db6bd272ac1476c30408a17af5fa7753d34cb8a43ddc
+./usr/share/locale/lt/LC_MESSAGES/pacman-scripts.mo time=1500112807.642655866 size=50589 md5digest=df81c7daeadaaf92fb96563d62594e01 sha256digest=d92da0e6a28a9a195e2523da9420526757f56a70084fdeec9d9946f66214c708
+./usr/share/locale/lt/LC_MESSAGES/pacman.mo time=1500112807.189308278 size=32991 md5digest=ef09370c31eba28add38bb4e231e61fd sha256digest=4daa1fb220177df626d35301cb220846d5128afe20efa53fe180f21c2d365125
+./usr/share/locale/nb time=1500112806.442618126 mode=755 type=dir
+./usr/share/locale/nb/LC_MESSAGES time=1500112807.652656181 mode=755 type=dir
+./usr/share/locale/nb/LC_MESSAGES/libalpm.mo time=1500112806.445951564 size=15715 md5digest=b321ed0cdff281e10e0408bd90f240bc sha256digest=0ed88d4c9b861e84efc3f627270e0e6fadd7be187e9316f1dbe6b6009ef60050
+./usr/share/locale/nb/LC_MESSAGES/pacman-scripts.mo time=1500112807.652656181 size=49357 md5digest=d5f7ea091e73b48882f5dae8214f4336 sha256digest=09e127ce3d94205e95e1f30d67b0b06f845f0a7df96c94df75913b6d6a583bda
+./usr/share/locale/nb/LC_MESSAGES/pacman.mo time=1500112807.195975155 size=31346 md5digest=df57525166832fbf72b05468d114f58d sha256digest=23b2d26aaec59a79d57f7cb014e50d42c02b94e822abb3793272d26f270082fc
+./usr/share/locale/nl time=1500112806.452618441 mode=755 type=dir
+./usr/share/locale/nl/LC_MESSAGES time=1500112807.659323057 mode=755 type=dir
+./usr/share/locale/nl/LC_MESSAGES/libalpm.mo time=1500112806.452618441 size=15891 md5digest=0f4433552a668ad038391dd579e8fc67 sha256digest=b8fb07681c8d661f6ed8d4cee7626fffdd70b658f435b0049ed46f6c85812a7d
+./usr/share/locale/nl/LC_MESSAGES/pacman-scripts.mo time=1500112807.659323057 size=49921 md5digest=930ddefb9c5efa6b6fcfb81cfd43fd89 sha256digest=b13b8ef57de0ca2ed24faefd2b9eec6034539f1f9d6f19ddee754da9487334c1
+./usr/share/locale/nl/LC_MESSAGES/pacman.mo time=1500112807.202642031 size=32444 md5digest=433c6b1cc0820663478cbc0effd7ab3f sha256digest=2af629b61ec1348bc212c0bc0e60035b4ea16bbc54c627772770d540678c01d9
+./usr/share/locale/pl time=1500112806.465952194 mode=755 type=dir
+./usr/share/locale/pl/LC_MESSAGES time=1500112807.665989934 mode=755 type=dir
+./usr/share/locale/pl/LC_MESSAGES/libalpm.mo time=1500112806.465952194 size=16891 md5digest=eb170ba55db3f9a458890e37f8dce05b sha256digest=ad2c8d0c602eaa2a06a54ac7427a1c731bc5a7452436e3a80f532ade1587d0f7
+./usr/share/locale/pl/LC_MESSAGES/pacman-scripts.mo time=1500112807.665989934 size=51324 md5digest=bd462d5b9f5f305f37c92b1010a84a6f sha256digest=b79b4284f8f1d5b5a76784ee3dc267a48b927c012f9f691ad11a19df4d350d66
+./usr/share/locale/pl/LC_MESSAGES/pacman.mo time=1500112807.212642345 size=33558 md5digest=260837f9209a832a16285c0e0165a2a2 sha256digest=e0dfd7e8acfd220bfc85364adbf3dbd5f51b0b971b3bc5bd37ffda6a55a7fd0d
+./usr/share/locale/pt time=1500112806.475952508 mode=755 type=dir
+./usr/share/locale/pt/LC_MESSAGES time=1500112807.672656810 mode=755 type=dir
+./usr/share/locale/pt/LC_MESSAGES/libalpm.mo time=1500112806.475952508 size=17012 md5digest=ec1f718d5e34eb7f18dd2d828270faf3 sha256digest=1bd595e874a11ab40a6b181094524ab22ba43e0182821fc074b78a907950f40c
+./usr/share/locale/pt/LC_MESSAGES/pacman-scripts.mo time=1500112807.672656810 size=52056 md5digest=e72df2a1a0cfb668da1e6d2b20aa34dc sha256digest=a1ac2b0fe371ac010303be8cd4b7a9a069ca8620bd01721837e8ea2cee9ce821
+./usr/share/locale/pt/LC_MESSAGES/pacman.mo time=1500112807.219309221 size=33310 md5digest=e073f47c486d0bf3dec2d1d2e3ed6608 sha256digest=e0a2806c8df49f46c413eb44aba55dca0d9b9907bbc400ad5e8ec822b2662017
+./usr/share/locale/pt_BR time=1500112806.482619385 mode=755 type=dir
+./usr/share/locale/pt_BR/LC_MESSAGES time=1500112807.679323687 mode=755 type=dir
+./usr/share/locale/pt_BR/LC_MESSAGES/libalpm.mo time=1500112806.485952823 size=16959 md5digest=a5ea8863f04102fc3a0bded48f9f34c0 sha256digest=af0825daf7d0a5f09eb73b766956483334f8a7767b347720df75bdd5be71ca7b
+./usr/share/locale/pt_BR/LC_MESSAGES/pacman-scripts.mo time=1500112807.679323687 size=52380 md5digest=32bf334709ef4acb33ba8c31a07f05fa sha256digest=0ee766f522d0bf5246b33157f9e73e5e215c2c938651c8bc30e12a4d6f6d5d14
+./usr/share/locale/pt_BR/LC_MESSAGES/pacman.mo time=1500112807.229309536 size=33367 md5digest=1eb360a19c11c056b40fd65c31918996 sha256digest=c06ccd9fdb779bf86acfa7821e357697a0c5a72aacdbcd31958f156a47ff3f92
+./usr/share/locale/ro time=1500112806.492619699 mode=755 type=dir
+./usr/share/locale/ro/LC_MESSAGES time=1500112807.689324001 mode=755 type=dir
+./usr/share/locale/ro/LC_MESSAGES/libalpm.mo time=1500112806.495953137 size=16632 md5digest=eae5dc7e9de1a8a8500b3bade1dd6d12 sha256digest=3e9704333da8144cf9f7aaeb1f56900c123514594f0ae33bcf9b1b9b76b8fe0b
+./usr/share/locale/ro/LC_MESSAGES/pacman-scripts.mo time=1500112807.689324001 size=51990 md5digest=5fbba2e9b85c0ddce9255ac578fde8c9 sha256digest=ede0eb0c6ea1198dffcc6e0cf85751a86ab5df143e22967e8b720475e90ef1e9
+./usr/share/locale/ro/LC_MESSAGES/pacman.mo time=1500112807.235976412 size=33942 md5digest=ab6e1705454cd088def0d8add3f00b8e sha256digest=1162658622529876c331c62dc1971349230bd4c0f58228d6bfd3688daaff94cb
+./usr/share/locale/ru time=1500112806.505953452 mode=755 type=dir
+./usr/share/locale/ru/LC_MESSAGES time=1500112807.695990877 mode=755 type=dir
+./usr/share/locale/ru/LC_MESSAGES/libalpm.mo time=1500112806.505953452 size=20673 md5digest=b945b1911c295819cf68d290acf5ef5e sha256digest=6417f4e26378639616140576a7a8ffc750bd0a5e6be8d318bbaddda36f4cf22d
+./usr/share/locale/ru/LC_MESSAGES/pacman-scripts.mo time=1500112807.695990877 size=62184 md5digest=d4855fe434a5f317508d56730df57382 sha256digest=4f2131d07684e5295a866e1454de8a1744ebb1721a4327b25f819db12d2298f0
+./usr/share/locale/ru/LC_MESSAGES/pacman.mo time=1500112807.242643288 size=39907 md5digest=00ad1a5467d89bdbb511f41699235508 sha256digest=13bf30831e86f0b4093baa1d1e7de5b7af2d9e51ed1954400c5949f6e6a00247
+./usr/share/locale/sk time=1500112806.515953766 mode=755 type=dir
+./usr/share/locale/sk/LC_MESSAGES time=1500112807.702657754 mode=755 type=dir
+./usr/share/locale/sk/LC_MESSAGES/libalpm.mo time=1500112806.515953766 size=16668 md5digest=5f919b9d806c40e057f8f50ca6c0a890 sha256digest=390c62c471f4d5116124beaf63a9d7c9e90dd6242b9cb65e7dc2e87efb070144
+./usr/share/locale/sk/LC_MESSAGES/pacman-scripts.mo time=1500112807.702657754 size=51013 md5digest=73981781f745b651c0ccaf4d2bd05ceb sha256digest=06307d955f04b79324a78818afe400dcdefa37f6ad693ba453f6f33082fd9d27
+./usr/share/locale/sk/LC_MESSAGES/pacman.mo time=1500112807.249310165 size=33080 md5digest=b63a601bf97e66f65dc8235499a548f6 sha256digest=068887e68e668ee2f3f21f5f9f52a37a9f1cdced8eee0115615007cb33589fca
+./usr/share/locale/sl time=1500112806.522620643 mode=755 type=dir
+./usr/share/locale/sl/LC_MESSAGES time=1500112807.709324630 mode=755 type=dir
+./usr/share/locale/sl/LC_MESSAGES/libalpm.mo time=1500112806.525954081 size=15506 md5digest=e66990af9af48d51ea8bd53a97e7410f sha256digest=99c0d5da1f29a5ccae31bad514edc5d18f622251881351582ca13e74213cd973
+./usr/share/locale/sl/LC_MESSAGES/pacman-scripts.mo time=1500112807.709324630 size=35631 md5digest=a5b0378d05230646636cbbb8c6a46c0e sha256digest=b48225d2944178086c4f65e4bda6e767b636eb4f242867f3a0d36501cdcdcda1
+./usr/share/locale/sl/LC_MESSAGES/pacman.mo time=1500112807.259310479 size=28392 md5digest=7b0b343be2bd67ebc375f3e7d83e2bc2 sha256digest=d9ff3708389171929e469a97fdf3a0cb05512c6b066c6d8848532c3d62e9ec12
+./usr/share/locale/sr time=1500112806.535954395 mode=755 type=dir
+./usr/share/locale/sr/LC_MESSAGES time=1500112807.715991506 mode=755 type=dir
+./usr/share/locale/sr/LC_MESSAGES/libalpm.mo time=1500112806.535954395 size=19786 md5digest=b320fd65334b7d8f0cd312d153c27043 sha256digest=771f38702b0771500dfe8383a5708c83246f2245c71c941d579dfe76be9f9541
+./usr/share/locale/sr/LC_MESSAGES/pacman-scripts.mo time=1500112807.715991506 size=60858 md5digest=5ac4bf71b45024886e7980361e816d6e sha256digest=b8098a35890f5bb48d5b2fe6b848011e45d9e00a35f5b5ee6817ae52758a1d6d
+./usr/share/locale/sr/LC_MESSAGES/pacman.mo time=1500112807.265977356 size=39915 md5digest=4e33861e8117e561475f7328afdb1012 sha256digest=570812aa376fb842e49f7738c0f4f419f652c917ecd4fd40d9b857bf54e42a4a
+./usr/share/locale/sr@latin time=1500112806.545954710 mode=755 type=dir
+./usr/share/locale/sr@latin/LC_MESSAGES time=1500112807.722658382 mode=755 type=dir
+./usr/share/locale/sr@latin/LC_MESSAGES/libalpm.mo time=1500112806.545954710 size=15719 md5digest=09395f045ec379ec00f31dcca430c57f sha256digest=09bf009206dcd1d03462ac7d5f57ca3e33c85a6d28211a0d9652ac723aed420e
+./usr/share/locale/sr@latin/LC_MESSAGES/pacman-scripts.mo time=1500112807.722658382 size=49069 md5digest=750a03eb0233796596a7fddceca859da sha256digest=9383ba9fb3a70b29da2d1c34140c9d8e67eb8b616b6a392b680062d6ab4d8712
+./usr/share/locale/sr@latin/LC_MESSAGES/pacman.mo time=1500112807.272644232 size=32177 md5digest=fe4a563b612f477f0f42dbe42e128a63 sha256digest=597c0783f43e9bbd2b0ea3522e631b267a2910d7fcb9db5d8015de7c5f85e049
+./usr/share/locale/sv time=1500112806.555955024 mode=755 type=dir
+./usr/share/locale/sv/LC_MESSAGES time=1500112807.732658697 mode=755 type=dir
+./usr/share/locale/sv/LC_MESSAGES/libalpm.mo time=1500112806.555955024 size=14910 md5digest=b7811f18a3b57a9de37c9729859479d8 sha256digest=04ae43138f68e16b2cf318b9355f551d3e5bde09840acff54490d210197e9777
+./usr/share/locale/sv/LC_MESSAGES/pacman-scripts.mo time=1500112807.732658697 size=44884 md5digest=c88026018dd620eb58ff20a07cdc49e0 sha256digest=ce00a5b05174a945e8124a7fd38196a60d4f6f9beec2348d78ed735f20ffbe6b
+./usr/share/locale/sv/LC_MESSAGES/pacman.mo time=1500112807.279311108 size=28257 md5digest=de85c9789ed43e6320d09f2335b7bc02 sha256digest=6ee769e7d33b598d8daaaac51af81efbe34d2132cc0fc2855733a78be3a028df
+./usr/share/locale/th time=1500112807.289311423 mode=755 type=dir
+./usr/share/locale/th/LC_MESSAGES time=1500112807.292644861 mode=755 type=dir
+./usr/share/locale/th/LC_MESSAGES/pacman.mo time=1500112807.292644861 size=2797 md5digest=46c8390902696bf79a54d0f0b7b60049 sha256digest=a473b28196c2b71b1e22cd9df7aeb1cbb6d6d275c43d76e620e154c319c8202e
+./usr/share/locale/tr time=1500112806.565955339 mode=755 type=dir
+./usr/share/locale/tr/LC_MESSAGES time=1500112807.742659011 mode=755 type=dir
+./usr/share/locale/tr/LC_MESSAGES/libalpm.mo time=1500112806.565955339 size=15777 md5digest=2a7e43b7f81ed7aaba165da5a4f992ca sha256digest=178ded4786058c55bc2348c748afd40d883bf1d01b1e80e6903450df8433547d
+./usr/share/locale/tr/LC_MESSAGES/pacman-scripts.mo time=1500112807.742659011 size=47247 md5digest=f38eef0d6188e4bf4b6df7d88bf4b45a sha256digest=4225ce714bc714f7106a8d65740890f96ae39491b633da460894bf21040c9c84
+./usr/share/locale/tr/LC_MESSAGES/pacman.mo time=1500112807.299311737 size=32859 md5digest=430d862f364a4239db85902e034c87e0 sha256digest=0114702ca252e7d529ca054e65524691151797833d3cf07b25276a88d639c16a
+./usr/share/locale/uk time=1500112806.575955654 mode=755 type=dir
+./usr/share/locale/uk/LC_MESSAGES time=1500112807.749325887 mode=755 type=dir
+./usr/share/locale/uk/LC_MESSAGES/libalpm.mo time=1500112806.575955654 size=20712 md5digest=73d36819fa31a5f7d5cf557b798405de sha256digest=06ed1187da88b8f88e5ee110476307cbd3cd627cd5c5bbe29b4654a9577840c8
+./usr/share/locale/uk/LC_MESSAGES/pacman-scripts.mo time=1500112807.749325887 size=63827 md5digest=b16b9ae207ba78aa88b7986a65bb9071 sha256digest=5567b6dd75c5636f34d8eac0fb742339826743fa069834a86dda5d8a4cab103c
+./usr/share/locale/uk/LC_MESSAGES/pacman.mo time=1500112807.309312051 size=40444 md5digest=0bafaeb27cc9498f6a1636954bfceb01 sha256digest=62bece056aea956d6e5bb52560b46a42e53cb5b528f615456ec0d79390710357
+./usr/share/locale/vi time=1500112807.319312366 mode=755 type=dir
+./usr/share/locale/vi/LC_MESSAGES time=1500112807.319312366 mode=755 type=dir
+./usr/share/locale/vi/LC_MESSAGES/pacman.mo time=1500112807.319312366 size=774 md5digest=2b911bbbc51cc1014a4e10ff2066f19d sha256digest=6a033877195621d04309e1f835866da6196b74b441db65328d9b9f641a1d90c6
+./usr/share/locale/zh_CN time=1500112806.582622530 mode=755 type=dir
+./usr/share/locale/zh_CN/LC_MESSAGES time=1500112807.755992764 mode=755 type=dir
+./usr/share/locale/zh_CN/LC_MESSAGES/libalpm.mo time=1500112806.585955968 size=14973 md5digest=c08e19bfba0e0dcb90b556c0ede35da3 sha256digest=8350bdb407f8082edc840f30bef5ee668b45ad0ac5893cdeb18469291c11d1f9
+./usr/share/locale/zh_CN/LC_MESSAGES/pacman-scripts.mo time=1500112807.755992764 size=47265 md5digest=4ab95999c9408947101b46aaa9454d51 sha256digest=5b956f7c9669b3b4a211c0597d7fa4e5429d315f0a7cf2f9b92978c7cdac73b7
+./usr/share/locale/zh_CN/LC_MESSAGES/pacman.mo time=1500112807.325979242 size=30413 md5digest=ba6bebc112e7f6745208c8c5bbb81489 sha256digest=0916b0eb3568666a2e7f5b815c26a06b333ca43e6bacf9d116ae9fed01f001a6
+./usr/share/locale/zh_TW time=1500112806.595956282 mode=755 type=dir
+./usr/share/locale/zh_TW/LC_MESSAGES time=1500112807.769326517 mode=755 type=dir
+./usr/share/locale/zh_TW/LC_MESSAGES/libalpm.mo time=1500112806.595956282 size=14885 md5digest=60265a992ae49cc4e8c4127a67428547 sha256digest=af643f7a66f5a71a7fd6ba1fc1ff5a586cce714f2b8658d8cf0e7095ed9c1f8c
+./usr/share/locale/zh_TW/LC_MESSAGES/pacman-scripts.mo time=1500112807.769326517 size=47853 md5digest=91f169a0ead6cf4b74d7a05f1d2be378 sha256digest=ba1c0cc421e9ed9aa51d4c542d1b457cc6d404b1b71918616bb9175bcc9df999
+./usr/share/locale/zh_TW/LC_MESSAGES/pacman.mo time=1500112807.332646119 size=30698 md5digest=946e74a8b7bdc047f4357e916c87c709 sha256digest=4e499d6700386dbd011f66304c534dba30ae6d18afabbe3a70151557ded22764
+/set mode=755
+./usr/share/makepkg time=1500112807.869329661 type=dir
+./usr/share/makepkg/lint_package.sh time=1500112807.819328088 size=1300 md5digest=59e08755e36ba0e51db5d5f72b57db90 sha256digest=3de7beb9de4ce63843cc38424a7a3d9e1a434688543e3c41a2cf1132141cff7d
+./usr/share/makepkg/lint_pkgbuild.sh time=1500112807.822661527 size=1238 md5digest=da6142833d2d48958b34ac937165cdfc sha256digest=68af76de92a46230d72687be3b5257fb57b37f1174559d28a00fdd1f65acaac8
+./usr/share/makepkg/source.sh time=1500112807.842662156 size=2428 md5digest=81f275806caacca9e98c11cc43158231 sha256digest=e1ff6475128fcff8ce3fffc54ce8cd3109c9f033aa7a3c8865230ce46a6cdeba
+./usr/share/makepkg/tidy.sh time=1500112807.855995909 size=1401 md5digest=46d49cae0dcff8590f5126fa46c5c679 sha256digest=dd4df7ea74a755f78f6ba5b3969d294a47aaf5df46b1eac3369409965d2e39c6
+./usr/share/makepkg/util.sh time=1500112807.869329661 size=963 md5digest=cef2cf7a1f4e16083b497f420808d8fa sha256digest=afe4aa9d27cca0533acc3573a1b099fea8321d554d7f050aff34bc203dfffcc0
+./usr/share/makepkg/lint_package time=1500112807.822661527 type=dir
+./usr/share/makepkg/lint_package/build_references.sh time=1500112807.822661527 size=1420 md5digest=cc8f9a89bac03123e199e9d8a61c0e9b sha256digest=9ca9de1adb7cad53d3611279698cdbd36674020bda41d877da09cc9f7bf9e4c5
+./usr/share/makepkg/lint_package/missing_backup.sh time=1500112807.822661527 size=1249 md5digest=5445590e00c371471eefa2f96618e989 sha256digest=e0482e8b2e4548390659ed1bf734c5b169075ce140acd9a0154320de0be4daf5
+./usr/share/makepkg/lint_pkgbuild time=1500112807.842662156 type=dir
+./usr/share/makepkg/lint_pkgbuild/arch.sh time=1500112807.825994965 size=1824 md5digest=e246e703364f8d4aa6233053846b6de7 sha256digest=c843c280f98f4c4cd7068a7606d6f290a06421365aab51c3853b11a321b311f3
+./usr/share/makepkg/lint_pkgbuild/backup.sh time=1500112807.825994965 size=1497 md5digest=5c7d010830be925f5a13c7052dec687b sha256digest=9212ee234629e7940135c2c8891ce620fdd0396bdef5ee5dadb8a0cd65f47b16
+./usr/share/makepkg/lint_pkgbuild/changelog.sh time=1500112807.825994965 size=1436 md5digest=ac05c691850582207db3a82cbf9b803b sha256digest=623ad001c6f788669cc53021eaa27a775f4db72dd9f55f5778c943f90b860b02
+./usr/share/makepkg/lint_pkgbuild/epoch.sh time=1500112807.829328403 size=1183 md5digest=4a4821a6a06c4d85f4241b65eed6b7ad sha256digest=323f5235ca93abbc738d36d2dd527b80b08f2fade689ad09bdbfeef7b3ffdeb6
+./usr/share/makepkg/lint_pkgbuild/install.sh time=1500112807.829328403 size=1406 md5digest=7c20d45d21ed77a94545ab09a7b2e0ce sha256digest=24410c241829468e1d20707be2b12701b1463f4e0e6ecb8af1b571f999e479e7
+./usr/share/makepkg/lint_pkgbuild/optdepends.sh time=1500112807.829328403 size=1906 md5digest=d6554ee081c03961025c31f65c486c87 sha256digest=e95730ad61caab84ee2d6f9d229707a693cae9a60a7cecf45069ff74cb4e1ff2
+./usr/share/makepkg/lint_pkgbuild/options.sh time=1500112807.832661841 size=1689 md5digest=63accb3211213c9fdccae455ddddf0e3 sha256digest=c85100fcbca869e217d0e48f50d00cccf157dd9b526a707102296996f6754c61
+./usr/share/makepkg/lint_pkgbuild/package_function.sh time=1500112807.832661841 size=1589 md5digest=bdc50740ec10d2a4ac89376ded95d877 sha256digest=b5c16697245ae65539fff3029604ebe0668d95ffa5ead4e32263d1d6d1c813e5
+./usr/share/makepkg/lint_pkgbuild/pkgbase.sh time=1500112807.832661841 size=1504 md5digest=c7e0a59d3046d9057ca0036063d3359c sha256digest=d65ccf69544a2e9c98fa5138b518a1524085b05b5da9c13422f1a09c93e51603
+./usr/share/makepkg/lint_pkgbuild/pkglist.sh time=1500112807.835995279 size=1296 md5digest=d5aa138900a3019c46949bc3c5972a5b sha256digest=28f067741dec963a7466fe3b236e4501c68e92c6a885a97a4aa25d4ed2a9616a
+./usr/share/makepkg/lint_pkgbuild/pkgname.sh time=1500112807.835995279 size=1648 md5digest=32aff803e20395a9e6860fa93f539749 sha256digest=7e44587faff4ec0330e9a34b00a357dc0290f4188a194b409f1fc2ba32077257
+./usr/share/makepkg/lint_pkgbuild/pkgrel.sh time=1500112807.835995279 size=1303 md5digest=760b3524394e10a5279bebc916eb8828 sha256digest=36281371141ce538a2cae1d3e2edf96bba69ef7a8f870396a57a8ec187194158
+./usr/share/makepkg/lint_pkgbuild/pkgver.sh time=1500112807.839328718 size=1454 md5digest=115d529bfd4334b5bf1b742cf5e3ebaf sha256digest=91f137e9187de51add012df61d318fbf7c112f8ca3a7aec41f29dd620fa1f103
+./usr/share/makepkg/lint_pkgbuild/provides.sh time=1500112807.839328718 size=1781 md5digest=b5297cd9e77dc68bd924fa06d63d8dbb sha256digest=24cab3d92700914e9b0abf97cea0d300ee8fe0b207f690f90929820b177bdf27
+./usr/share/makepkg/lint_pkgbuild/source.sh time=1500112807.839328718 size=1231 md5digest=c971dbd085e885de1cfdaaf63fa02ed5 sha256digest=b4b900b9d8108ca5b4bda480461612ed17d892e9b58c7316a22c408527a2ff35
+./usr/share/makepkg/lint_pkgbuild/util.sh time=1500112807.842662156 size=1251 md5digest=c8509324af6426f8eabcbde8ceea38b8 sha256digest=a86d2d190860114001d8d5fae89c25fd8000e101e73a59a7f477660bfba3a5d6
+./usr/share/makepkg/lint_pkgbuild/variable.sh time=1500112807.842662156 size=2947 md5digest=493face4eb0fc1f61fdd7ed386ba4086 sha256digest=73b1ca180251fe3a90265e3619dce51ef3978b09512dade2fd97dac1193e9a8a
+./usr/share/makepkg/source time=1500112807.855995909 type=dir
+./usr/share/makepkg/source/bzr.sh time=1500112807.849329032 size=3065 md5digest=7de67cb59de89897fc798e748444e01a sha256digest=0e2caaf69ce1953e2b96269c27d5ef67f69ed0e7a40f51fece9bbc46bf6c25b3
+./usr/share/makepkg/source/file.sh time=1500112807.849329032 size=3810 md5digest=40ebef14585427246247a404f7662600 sha256digest=e482c84619f04ce45e5966cbbb45cd0d8952c034529937a07adc836a0d3554cc
+./usr/share/makepkg/source/git.sh time=1500112807.849329032 size=3523 md5digest=d27b718ba05ff6ea15a3fda3a9d0b550 sha256digest=8d2bc4a68414a03b76c79f5b94c1726894a7a5e65b419c5912694515410b260f
+./usr/share/makepkg/source/hg.sh time=1500112807.852662470 size=2902 md5digest=06c14fd40135fc94a690ffe4f2d2e87d sha256digest=722c627da44a29ec7f5a467e46c820065be6672fc6a313106b5e7472c94cb29a
+./usr/share/makepkg/source/local.sh time=1500112807.852662470 size=1357 md5digest=d9252b4ffbb73f3e513dc404d1b17adf sha256digest=a127565ffe6c5c57816437f5ff088f1f8575c896cd92e6a07ff5633127f674dc
+./usr/share/makepkg/source/svn.sh time=1500112807.855995909 size=2566 md5digest=8060a1dbf773a327473e6f8dda3ce5c6 sha256digest=1433fcb53a1b4bcbd4782ca91e390e6fead15c8b58e4472aadb1802258925e04
+./usr/share/makepkg/tidy time=1500112807.869329661 type=dir
+./usr/share/makepkg/tidy/docs.sh time=1500112807.855995909 size=1207 md5digest=9cdabc62faded9282df142dcdb188489 sha256digest=af187b6091680ef72689ab934e026712e4b6200b9f1d9d985ca540ad343d88a2
+./usr/share/makepkg/tidy/emptydirs.sh time=1500112807.859329347 size=1341 md5digest=fd13a11aee6897231c6fc40591caae1d sha256digest=910e7eccccaff414decd09e1d200f29cfa2856cf9844c2e05ee3641647d57d80
+./usr/share/makepkg/tidy/libtool.sh time=1500112807.859329347 size=1234 md5digest=7f416247bf1da580e3183b04375cecbc sha256digest=96e7b078d2cd4f2eb7de6be57ef6455db5ddeac4d146c4a8e2149144c43fc0e7
+./usr/share/makepkg/tidy/optipng.sh time=1500112807.862662785 size=1464 md5digest=5772b892a34de8cef854687269526126 sha256digest=5d82beca169b106135d3425f0c8ad7301090df831e1bede38406b1e419eac7d0
+./usr/share/makepkg/tidy/purge.sh time=1500112807.862662785 size=1373 md5digest=d029afd699787be8d4324293e44de15e sha256digest=8f9995a61347ea6a0ec74c9bf2066873e2821b6c9cd3b8809349429ddd455f26
+./usr/share/makepkg/tidy/staticlibs.sh time=1500112807.862662785 size=1364 md5digest=6445922ce57b212f630c81216061f960 sha256digest=ef69f6284c3f525d487e9cd7f4452abc615d0620e81143fec24303a82cc93e0e
+./usr/share/makepkg/tidy/strip.sh time=1500112807.865996223 size=3389 md5digest=0317ce7e79beb1f04d14f0cd65bf29eb sha256digest=96681d9691e7834221389f4afc4bcb8339d515ce7c7845afd98d27acd23caa9b
+./usr/share/makepkg/tidy/upx.sh time=1500112807.865996223 size=1503 md5digest=398d745f0d13c8817545fffc97758041 sha256digest=f13c0762153aa41354fac95b7f3893e8426e2fdb83990c6a6a5c2a4d2921854a
+./usr/share/makepkg/tidy/zipman.sh time=1500112807.869329661 size=1885 md5digest=13dbf1a72ec50331bdfc586653a58ae2 sha256digest=df5ccce9bdff17996abc6b1f3adff7ff1ccb2ea9b07b73cb040a59c02f3e2fab
+./usr/share/makepkg/util time=1500112807.879329976 type=dir
+./usr/share/makepkg/util/message.sh time=1500112807.869329661 size=1979 md5digest=fa53b9d24950bd328afa284184ec761b sha256digest=e7b9d1118326ce755248aed39a84c04f25a6ecbc70827b4373ee6a39016eb00a
+./usr/share/makepkg/util/option.sh time=1500112807.875996538 size=2997 md5digest=3b6ec5b7ffde3d8fe01f54429de005a3 sha256digest=31600ad5998b41006e5ce823aff0fd33b6ca9eaa3553f968e0ca4f7f3f10345b
+./usr/share/makepkg/util/pkgbuild.sh time=1500112807.879329976 size=4623 md5digest=972236d8af29c632bc430d0ea0570fb3 sha256digest=0f5c82b8dedaf65d3c7fc3d79c6921ced67bb27559bdcfc463d61aef9bf2e5c2
+./usr/share/makepkg/util/source.sh time=1500112807.879329976 size=3464 md5digest=962de25e9e1244e0590fcbabace8af14 sha256digest=19beedeaccbcb80776a2642b83abd4fd4e615db9facb4a5dd47a596400b565b6
+./usr/share/makepkg/util/util.sh time=1500112807.879329976 size=1924 md5digest=d832334828ae41c4590a5b58ee3779fd sha256digest=ad77694ed38b466dd8a41793b267b1b3ad73e985ab1ff697d101893086d63431
+./usr/share/makepkg-template time=1500112808.82669702 type=dir
+./usr/share/man time=1500112808.9334063 type=dir
+./usr/share/man/man1 time=1500112834.100150988 type=dir
+./usr/share/man/man1/makepkg-template.1.gz time=1500112808.12667501 mode=644 size=2530 md5digest=d94f734c3b5c9939338e41ed057c1cb1 sha256digest=5f4518aa41adbd3383a9e9e50e41e9b239a28197b8252028b02b13f552a073f0
+./usr/share/man/man3 time=1500112834.103484424 type=dir
+./usr/share/man/man3/libalpm.3.gz time=1500112808.16000939 mode=644 size=1364 md5digest=0ac13b2967c96f7cd1149679edbafef4 sha256digest=de7910c6a16f6a71e87a27a4a3c778ee168536027676edcf927ad55dad9e09c5
+/set mode=644
+./usr/share/man/man5 time=1500112834.70150052 mode=755 type=dir
+./usr/share/man/man5/PKGBUILD.5.gz time=1500112808.16000939 size=8455 md5digest=2929199ceb16445cd075fbc9fa61f3ba sha256digest=638cc65db6a828be40cdd8fd678f808a52277894e30a1895bc357479af2f54e4
+./usr/share/man/man5/alpm-hooks.5.gz time=1500112808.16000939 size=2597 md5digest=2a96c082c6d9d41477a115e8e6d723cc sha256digest=21e7869a5aec68661319f5ed615ea6a6eb0408e1f554da514df4c77d5cb9ed3d
+./usr/share/man/man5/makepkg.conf.5.gz time=1500112808.16000939 size=4982 md5digest=9b6ce5faf7db6eb6bbd8eefa06eb834e sha256digest=35c27d69125040fd780f5064eebc71d336b5aa93dc6982fc17d5435893179f39
+./usr/share/man/man5/pacman.conf.5.gz time=1500112808.16000939 size=6516 md5digest=3dbe7e770972328b6172992a084641da sha256digest=47a5def939ce5453fd449091e8e803206f69c94581e52aad569079120d20c653
+./usr/share/man/man8 time=1500112834.96817550 mode=755 type=dir
+./usr/share/man/man8/makepkg.8.gz time=1500112808.16000939 size=4529 md5digest=771e90605d13eb1e23c92ee2c2e39d08 sha256digest=9345e3a7099a99deaecfee1d135169c8b3c6d0e7602d6eebea5aa146cef8b5a3
+./usr/share/man/man8/pacman-key.8.gz time=1500112808.16000939 size=2784 md5digest=a3f1c9569c0f7d52c37c986cb4f88a25 sha256digest=0bdc7f6947d0a9fb12a0e0d60b70ceee07b69e68c51d535b293ec58e6cfea4e7
+./usr/share/man/man8/pacman.8.gz time=1500112808.16000939 size=8378 md5digest=6379d9956f608b9de114d6f3595ca767 sha256digest=eb1dee660bcaa8476ef3d8a2949ebd144abc2406994a14b96d1d192e6316bdcb
+./usr/share/man/man8/pactree.8.gz time=1500112808.16000939 size=1615 md5digest=6dced97fd20ea55a51fb1be710607e13 sha256digest=9b3c94fa81291bd7944e5d90c3b8c067973a60a401b4bdf93777395b9a58b447
+./usr/share/man/man8/pkgdelta.8.gz time=1500112808.16000939 size=1618 md5digest=42d714d082249bcf32368792f478e4ac sha256digest=c6fadbda1ca354b532d63c9923cdff7dd99aa876f467a2baba34d2f155736600
+./usr/share/man/man8/repo-add.8.gz time=1500112808.16000939 size=2239 md5digest=04b2dac98eab239213007722f0d96c3b sha256digest=54d7f500a64e484fd89e71518637a82b611fc983a58de8c3a327e8e9e3d748fb
+./usr/share/man/man8/repo-remove.8.gz time=1500112834.83483801 mode=777 type=link link=repo-add.8.gz
+./usr/share/man/man8/vercmp.8.gz time=1500112808.16000939 size=1681 md5digest=fdc8a1305b59476c926732f50c183aba sha256digest=5a09eb80d5ea542c7aca2122b027f73e3f37f71d4bd427aedbf4df3bd312087e
+./usr/share/pacman time=1500112808.82669702 mode=755 type=dir
+./usr/share/pacman/PKGBUILD-split.proto time=1500112808.82669702 size=1319 md5digest=3a9254fbce8d88a5af1fd265b3e7f50f sha256digest=ee23224108be1186ca090640f51864aa1859ebf5868bacc623f306b91d8904e1
+./usr/share/pacman/PKGBUILD-vcs.proto time=1500112808.82669702 size=2031 md5digest=dfb5cf1f4fb314e9bb54f33399ffc0fa sha256digest=efea51851ea4b15521f5a3de48a9232ada6094593c25d8cf4b9e25bfb4a14b12
+./usr/share/pacman/PKGBUILD.proto time=1500112808.82669702 size=918 md5digest=6ade78ebfd8c25db1d0438f315530d54 sha256digest=e1be343d5c05f183778e500b9b9c1fcc759656993836a10ce7004dc0e1cf253f
+./usr/share/pacman/proto.install time=1500112808.82669702 size=689 md5digest=33cabda088f7c407e81ab699c9917e12 sha256digest=d88eb0f3cfb68669dd73788c8787cb2fbf3373f5af5f90bbf635f519f5901ba0
+./usr/share/vim time=1500112808.116004083 mode=755 type=dir
+./usr/share/vim/vimfiles time=1500112808.116004083 mode=755 type=dir
+./usr/share/vim/vimfiles/syntax time=1500112808.119337522 mode=755 type=dir
+./usr/share/vim/vimfiles/syntax/PKGBUILD.vim time=1500112808.119337522 size=14089 md5digest=3b42b80cfdc030534271d9c2ed36a64d sha256digest=5f87c284d177c5a7cb7217b665f8fe20529d2ccae46a72bc9b6d3f2d6d6085d7
+./usr/share/zsh time=1500112807.792660584 mode=755 type=dir
+./usr/share/zsh/site-functions time=1500112807.792660584 mode=755 type=dir
+./usr/share/zsh/site-functions/_pacman time=1500112807.792660584 size=21984 md5digest=d39c36bf2d1428a9f199b7159cb10bd1 sha256digest=d13448ee6d03d680cb998c9a1366a6a529913c013ef1790b6c1af0b05e8f95cf
+/set mode=755
+./var time=1500112808.79336264 type=dir
+./var/cache time=1500112808.79336264 type=dir
+./var/cache/pacman time=1500112808.79336264 type=dir
+./var/cache/pacman/pkg time=1500112808.79336264 type=dir
+./var/lib time=1500112808.79336264 type=dir
+./var/lib/pacman time=1500112808.79336264 type=dir
