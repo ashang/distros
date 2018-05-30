@@ -1,0 +1,24 @@
+[Trigger]
+Operation = Install
+Type = Package
+Target = sway
+
+[Trigger]
+Operation = Upgrade
+Type = Package
+Target = sway
+
+[Trigger]
+Operation = Install
+Type = Package
+Target = sway-git
+
+[Trigger]
+Operation = Upgrade
+Type = Package
+Target = sway-git
+
+[Action]
+Description = Applying setuid-bit to sway (and stripping filecaps)
+When = PostTransaction
+Exec = /bin/sh -c '/usr/bin/chmod +s /usr/bin/sway && setcap -r /usr/bin/sway'
